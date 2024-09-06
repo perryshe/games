@@ -25,7 +25,7 @@
 
 Перед вами пошаговый теннис.
 
-(img/tennis.png)
+(images/tennis.png)
 
 ## Chapter II
 
