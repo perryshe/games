@@ -1,7 +1,7 @@
 ## Contents
 
 1. [Chapter I](#chapter-i) \
-    1.1. [Readme!](#readme)
+    1.1. [Readme!](#readme)\
     1.2. [Level 1. Room 1.](#level-1-room-1)
 2. [Chapter II](#chapter-i) \
     2.1. [Level 2. Room 1.](#level-2-room-1)
@@ -25,21 +25,21 @@
 
 Перед вами пошаговый теннис.
 
-(images/tennis.png)
+![Иллюстрация к игре 1](images/tennis.png)
 
 ## Chapter II
 
-## Level 2. Room 1.
+## Level 1. Room 2.
 
-Команды:
+<h1 id="Commands" >Commands</h1>
 
-#Левый игрок.
-Вверх - sym != 'a'
-Вниз - sym != 'z'
-#Правый игрок
-Вверх - sym != 'k'
-Вниз - sym != 'm'
-#Другие команды:
-Пропуск хода - sym != ' '
-Окончание хода - sym = '\n'
+#Левый игрок.\
+Вверх - sym != 'a'\
+Вниз - sym != 'z'\
+#Правый игрок\
+Вверх - sym != 'k'\
+Вниз - sym != 'm'\
+#Другие команды:\
+Пропуск хода - sym != ' '\
+Окончание хода - sym = '\n'\
 
