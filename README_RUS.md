@@ -4,6 +4,8 @@
     1.1. [Readme!](#readme)\
     1.2. [Level 1. Room 1.](#level-1-room-1)
     1.3. [Level 1. Room 2.](#level-1-room-2)
+2. [Chapter II - life](#chapter-i) \
+    2.1. [Level 2. Room 1.](#level-2-room-1)
 
 ## Chapter I
 
@@ -40,3 +42,4 @@
 Пропуск хода - sym != ' '\
 Окончание хода - sym = '\n'\
 
+## Chapter II
